@@ -1,2 +1,0 @@
-# Calculator.C
-Calculator.C
